@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/carlos joel de la rosa hernandez](https://www.linkedin.com/in/carlos-joel-de-la-rosa-hernandez-440573224/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos joel de la rosa hernandez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-joel-de-la-rosa-hernandez-440573224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos joel de la rosa hernandez" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/charlyjoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="charlyjoe" height="30" width="40" /></a>
 </p>
 
